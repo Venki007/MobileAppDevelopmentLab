@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BundleDemo</string>
+    <string name="pwd_msg"> Password validation failed \n
+        1. Min length 8 \n
+        2. contain minimum of 1 lowercase letter \n
+        3. contain minimum of 1 uppercase letter \n
+        4. contain minimum of 1 number </string>
+</resources>
